@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "@context": "https://schema.org",
+      "@type": "designDrawing",
+      "id": "1",
+      "name": "Glass Bowl",
+      "description": "Sketch for handblown glass bowl"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "designDrawing",
+      "id": "2",
+      "name": "Glass Drinking Vessel",
+      "description": "Sketch for pattern on engraved vessel"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "designDrawing",
+      "id": "3",
+      "name": "Wood Drinking Vessel",
+      "description": "Sketch for hand-carved wood plate"
+    }
+  ],
+  "users": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "1",
+      "name": "Avery B. Collector",
+      "description": "I bought this awesome bowl for 10 bucks.",
+      "itemId": "1"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "2",
+      "name": "Dwight E. Furiowq",
+      "description": "This is my favorite glass with the owl patterns.",
+      "itemId": "2"
+    }
+  ],
+  "collection": {
+    "@context": "https://schema.org/",
+    "@type": "Collection",
+    "name": "monntagg's API",
+    "creator": "monntagg",
+    "about": "A collection of design drawings for craft objects.",
+    "url": "https://www.monntagg.info"
+  }
+}
